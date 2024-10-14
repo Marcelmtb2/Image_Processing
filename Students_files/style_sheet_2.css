@@ -1,0 +1,120 @@
+
+/* 	A GOOD SOURCE FOR SAMPLE STYLE SHEETS IS
+	http://www.w3.org/StyleSheets/Core/preview */
+
+	
+
+/*  NOTE THAT THE FOLLOWING ARE DISABLED BY USE OF THE COMMENT SYMBOL 
+
+.p1            { font-size: 6.5pt; font-family: Verdana; color: #666666; font-weight: bold; letter-spacing:1; 
+					margin-bottom:-4;margin-top:0; margin-left:10}
+.p5            { font-size: 6.5pt; font-family: Verdana; color: #666666; font-weight: bold; letter-spacing:1; 
+					margin-bottom:0;margin-top:-4; margin-left:10; margin-right:10}
+
+.p2            { font-size: 6.5pt; font-family: Verdana; color: #666666; font-weight: bold; letter-spacing:1; 
+					margin-bottom:0;margin-top:5; margin-left:10; margin-right:10}
+					
+.p3            { font-size: 6.25pt; font-family: Verdana; color: #999999; font-weight: bold; letter-spacing:0; 
+					margin-bottom:0;margin-top:2; margin-left:10; margin-right:10}
+.p3A           { font-size: 6.5pt; font-family: Verdana; color: #666666; font-weight: bold; letter-spacing:1; 
+					margin-bottom:0;margin-top:2; margin-left:10; margin-right:10}
+
+					
+.p4            { font-size: 28pt; font-family: Verdana; color: #999999; font-weight: normal; letter-spacing:0; 
+					margin-bottom:0;margin-top:0; margin-left:10; margin-right:10}
+					
+
+
+.hr1 		{ color:#999999; width:250px; height:3px;margin-left:10}
+.hr1A 		{ color:#999999; width:263px; height:3px;margin-left:10}
+.hr2 		{ color:#999999; width:537px; height:3px;margin-left:10}
+
+*/
+
+body {font-size: 10pt; font-family:Verdana, Arial, Helvetica, sans-serif}
+
+.s01px {font-size: 1px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s02px {font-size: 2px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s04px {font-size: 4px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s05px {font-size: 5px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s07px {font-size: 7px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s10px {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s11px {font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s12px {font-size: 12px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s24px {font-size: 24px; font-family: Verdana, Arial, Helvetica, sans-serif }
+.s36px {font-size: 36px; font-family: Verdana, Arial, Helvetica, sans-serif }
+
+
+.menutxt {font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.maintxt {font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt08pt {font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt09pt {font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt10pt {font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt11pt {font-size: 11pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt12pt {font-size: 12pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt15pt {font-size: 15pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt18pt {font-size: 18pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt20pt {font-size: 20pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.txt24pt {font-size: 24pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+
+.reallytinytxt {font-size: 6pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.tinytxt {font-size: 7pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.smalltxt {font-size: 8pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.standardtxt {font-size: 10pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.mediumtext {font-size: 9pt; font-family: Verdana, Arial, Helvetica, sans-serif }
+.sec-h1 {font-size: 17pt; font-family: "Times New Roman", serif; font-weight: bold; font-style:italic}
+.sec-h1-small {font-size: 13pt; font-family: "Times New Roman", serif; font-weight: bold; font-style:italic}
+.sec-h1-xtrasmall {font-size: 8pt; font-family: "Times New Roman", serif; font-weight: bold; font-style:italic}
+.sec-h2 {font-size: 14pt; font-family: Verdana, Arial, Helvetica, sans-serif; color: #660066}
+
+.txt_times_10pt{font-size: 10pt; font-family: Times, serif}
+
+
+/*
+A:link	{	
+	text-decoration:	none;
+	}	
+		
+A:visited	{	
+	text-decoration:	none;
+	}	
+		s
+A:hover	{		
+text-decoration:	none;
+	color:	#FF0000;
+	background:	#FFFFFF;
+	}
+	
+A:active	{	
+	text-decoration:	none;
+	}	
+
+*/		
+
+
+ A:link	{	
+	text-decoration:	none;
+	font-weight:	normal;
+	color:	#000000;
+	background:	#FFFFFF;
+	}	
+		
+A:visited	{	
+	text-decoration:	none;
+	font-weight:	normal;
+	color:	#000000;
+	background:	#FFFFFF;
+	}	
+
+A:hover	{	
+	text-decoration:	none;
+	color:	#FF0000;
+	background:	#FFFFFF;
+	}	
+		
+A:active	{	
+	text-decoration:	none;
+	font-weight:	normal;
+	color:	#000000;
+	background:	#FFFFFF;
+	}
